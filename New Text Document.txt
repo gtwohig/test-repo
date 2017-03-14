@@ -4,7 +4,7 @@ smaller
 
 more from PAPI-124 and 1665
 
-SAND2
+SAND-2
 
 SAND-3
 
